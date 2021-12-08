@@ -10,6 +10,8 @@ pcb & case
 
 mp4 file https://imgur.com/L2KnZHe
 
+mp4 file https://imgur.com/nbIOpWw
+
 ![image](https://github.com/ouser555/ergodashv99/blob/main/002.jpeg)
 ![image](https://github.com/ouser555/ergodashv99/blob/main/003.jpeg)
 ![image](https://github.com/ouser555/ergodashv99/blob/main/004.jpeg)
