@@ -10,11 +10,11 @@ pcb & case
 
 mp4 file demo 1: https://imgur.com/L2KnZHe
 
-[![IMAGE ALT TEXT HERE](https://imgur.com/L2KnZHe.jpg)](https://imgur.com/L2KnZHe)
+[![IMAGE ALT TEXT HERE](https://i.imgur.com/vKb2F1B.png))](https://imgur.com/L2KnZHe)
 
 mp4 file demo 2: https://imgur.com/nbIOpWw
 
-[![IMAGE ALT TEXT HERE](https://imgur.com/nbIOpWw.jpg)](https://imgur.com/nbIOpWw)
+[![IMAGE ALT TEXT HERE](https://i.imgur.com/vKb2F1B.png))](https://imgur.com/nbIOpWw)
 
 ![image](https://github.com/ouser555/ergodashv99/blob/main/002.jpeg)
 ![image](https://github.com/ouser555/ergodashv99/blob/main/003.jpeg)
