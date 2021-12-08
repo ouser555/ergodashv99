@@ -13,5 +13,5 @@ pcb & case
 ![image](https://github.com/ouser555/ergodashv99/blob/main/004.jpeg)
 ![image](https://github.com/ouser555/ergodashv99/blob/main/005.jpeg)
 ![image](https://github.com/ouser555/ergodashv99/blob/main/006.jpeg)
-![image](https://github.com/ouser555/ergodashv99/blob/main/007.jpeg)
-![image](https://github.com/ouser555/ergodashv99/blob/main/008.jpeg)
+![image](https://github.com/ouser555/ergodashv99/blob/main/007.jpg)
+![image](https://github.com/ouser555/ergodashv99/blob/main/008.jpg)
