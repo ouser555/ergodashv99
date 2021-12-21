@@ -76,6 +76,9 @@
 
   ![image](https://github.com/ouser555/ergodashv99/blob/main/ergodashv99via%E4%BD%BF%E7%94%A8%E8%AA%AA%E6%98%8E/0006.png)
   
-* VIA的KEYMAP設定是跟著安裝VIA的電腦的，如果鍵盤要拿到其他電腦操作也是要經過相同的設定才可以轉移KEYMAP，不然就只能使用預設的KEYMAP
+* VIA的KEYMAP設定是跟著安裝VIA的電腦的，
+
+  如果鍵盤要拿到其他電腦操作也是要經過相同的設定才可以轉移KEYMAP，
+  不然就只能使用預設的KEYMAP
 
 * 關於VIA的其他設定可以自己測試看看
