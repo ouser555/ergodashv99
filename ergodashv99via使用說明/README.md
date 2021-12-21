@@ -16,7 +16,7 @@
   ![image](https://github.com/ouser555/ergodashv99/blob/main/ergodashv99via%E4%BD%BF%E7%94%A8%E8%AA%AA%E6%98%8E/0012.png)
   
 * 選擇檔案ErgoDash_4key_2u_inner
-  (檔案在https://github.com/ouser555/ergodashv99/tree/main/ergodashv99via%E4%BD%BF%E7%94%A8%E8%AA%AA%E6%98%8E/ergodashv99via)
+  (檔案在https://git.io/JDxnc)
 
   ![image](https://github.com/ouser555/ergodashv99/blob/main/ergodashv99via%E4%BD%BF%E7%94%A8%E8%AA%AA%E6%98%8E/0004.png)
   
@@ -40,7 +40,7 @@
   ![image](https://github.com/ouser555/ergodashv99/blob/main/ergodashv99via%E4%BD%BF%E7%94%A8%E8%AA%AA%E6%98%8E/0007.png)
      
 * 選擇KEYMAP設定檔 ergodashv99 
-  (檔案在https://github.com/ouser555/ergodashv99/tree/main/ergodashv99via%E4%BD%BF%E7%94%A8%E8%AA%AA%E6%98%8E/ergodashv99via)
+  (檔案在https://git.io/JDxnc)
   會依照檔案設定KEYMAP，如果之後有自己的配置也可以用save current layout把keymap保存起來
   ![image](https://github.com/ouser555/ergodashv99/blob/main/ergodashv99via%E4%BD%BF%E7%94%A8%E8%AA%AA%E6%98%8E/0005.png)
   
