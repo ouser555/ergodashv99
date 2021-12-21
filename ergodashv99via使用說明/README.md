@@ -51,7 +51,11 @@
   ![image](https://github.com/ouser555/ergodashv99/blob/main/ergodashv99via%E4%BD%BF%E7%94%A8%E8%AA%AA%E6%98%8E/0020.png) 
   
 * 最上方可以看到這裡原始設定只有四層鍵盤層 LAYER 0 1 2 3，普通狀態都在LAYER 0
+  
+  LAYER 0 的名稱是 QWERTY
+  
   LAYER 1 的名稱是 LOWER
+  
   ![image](https://github.com/ouser555/ergodashv99/blob/main/ergodashv99via%E4%BD%BF%E7%94%A8%E8%AA%AA%E6%98%8E/0013.png)
   
   LAYER 2 的名稱是 RAISE，LAYER 3的名稱是ADJUST
