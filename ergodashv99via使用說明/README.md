@@ -86,11 +86,16 @@
   ![image](https://github.com/ouser555/ergodashv99/blob/main/ergodashv99via%E4%BD%BF%E7%94%A8%E8%AA%AA%E6%98%8E/0016.png)
   
 
-* 像是調整背光色相，調整V99的DPI，切換滾輪模式都是設定在LAYER 2，所以都是按RAISE鍵切到LAYER 2來操作，
+* 像是調整背光色相，調整V99的DPI，切換滾輪模式都是設定在LAYER 2，
+
+  所以都是按RAISE鍵切到LAYER 2來操作，
 
   這就跟筆記型電腦的FN鍵是一樣的道理。
   
-  RGB色相是HUE+ HUE-，切換滾輪模式是SCRLS SCRLM，切換DPI是DPIS DPIM，預設這些鍵都設定在LAYER 2的右下方區域。
+  RGB色相是HUE+ HUE-，切換滾輪模式是SCRLS SCRLM，切換DPI是DPIS DPIM，
+  
+  預設這些鍵都設定在LAYER 2的右下方區域。
+  
   
   
 * 也可以改這些V99控制鍵的KEYMAP，打開左邊最下方的CUSTOM選單可以看到這些KEYCODE，
