@@ -58,7 +58,9 @@
   
   ![image](https://github.com/ouser555/ergodashv99/blob/main/ergodashv99via%E4%BD%BF%E7%94%A8%E8%AA%AA%E6%98%8E/0013.png)
   
-  LAYER 2 的名稱是 RAISE，LAYER 3的名稱是ADJUST
+  LAYER 2 的名稱是 RAISE
+  
+  LAYER 3 的名稱是ADJUST
   
   ![image](https://github.com/ouser555/ergodashv99/blob/main/ergodashv99via%E4%BD%BF%E7%94%A8%E8%AA%AA%E6%98%8E/0009.png)
 
