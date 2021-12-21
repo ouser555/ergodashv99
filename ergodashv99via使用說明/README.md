@@ -90,7 +90,7 @@
 
   這就跟筆記型電腦的FN鍵是一樣的道理。
   
-  色相是HUE+ HUE-，切換滾輪模式是SCRLS SCRLM，切換DPI是DPIS DPIM，預設這些鍵都設定在LAYER 2的右下方區域。
+  RGB色相是HUE+ HUE-，切換滾輪模式是SCRLS SCRLM，切換DPI是DPIS DPIM，預設這些鍵都設定在LAYER 2的右下方區域。
   
   
 * 也可以改這些V99控制鍵的KEYMAP，打開左邊最下方的CUSTOM選單可以看到這些KEYCODE，
