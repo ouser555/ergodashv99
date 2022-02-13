@@ -21,6 +21,7 @@
   
 * 選擇檔案ErgoDash_4key_2u_inner
   (檔案在https://git.io/JDxnc) 
+  
   (下載方式:進入github連結後出現檔案列表，先按檔案，然後右邊上方有一個RAW按鈕，右鍵選擇另存連結為...)
 
   ![image](https://github.com/ouser555/ergodashv99/blob/main/ergodashv99via%E4%BD%BF%E7%94%A8%E8%AA%AA%E6%98%8E/0004.png)
