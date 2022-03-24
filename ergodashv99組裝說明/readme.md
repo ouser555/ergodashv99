@@ -43,6 +43,7 @@
 ![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/02.jpg)
 
 把Arduino ProMicro對上，可以平貼，這裡千萬不要不要不要焊上去，只是拿來定位而已。
+
 放Arduino的位置應該不會弄錯，因為另一邊已經放上reset按鍵了，沒辦法放錯誤的那邊。
 
 ![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/03.jpg)
@@ -111,6 +112,7 @@
 ![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/18.jpg)
 
 這是軸體的LED，雖然有附上，但是程式因為加了trackpoint功能，所以沒有更多的空間了，所以這LED是沒有功能的。要不要焊上看各人。
+
 燒原版的ergodash的程式這LED應該是可以動作的。
 
 ![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/19.jpg)
@@ -120,6 +122,7 @@
 ![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/20.jpg)
 
 這裡會建議焊之前先把針腳先剪了，這樣安裝會比較平整，也比較好看。
+
 要小心針腳飛噴，可以拿張衛生紙揉成球來遮擋。
 
 ![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/21.jpg)
