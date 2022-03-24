@@ -94,7 +94,13 @@ RGB LED的缺角pin為接地腳，對應到PCB上的G腳位。
 
 ![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/11.jpg)
 
-把剩下4個軸體也焊上。
+這裡補充說明，這個鍵盤的拇指區的位置可以自由配置3個按鍵，只有3個，不能放4個。
+
+請依照圖式選擇要擺放的位置。
+
+![image](https://github.com/omkbd/picture/blob/master/ergodash-layout.png)
+
+把決定好位置剩下4個軸體也焊上。
 
 ![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/12.jpg)
 
