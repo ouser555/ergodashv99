@@ -34,6 +34,11 @@
 
 左右各35個電阻、35個二極體、6個RGB燈先焊上如圖所示，二極體有方向注意不要弄反。
 
+鍵盤PCB上的零件面已經有先焊上部分零件了，應該不會搞錯。
+
+RGB LED的缺角pin為接地腳，對應到PCB上的G腳位。
+
+
 ![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/01.jpg)
 
 前一步驟零件全焊部好了之後，先放排針上PCB(不要焊)，之後請照步驟執行，不然弄錯會非常非常非常難解決。
