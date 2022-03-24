@@ -1,7 +1,8 @@
 ## ergodash v99 組裝說明
 剛開始拿到套件時可以先清點一下零件
 * 鍵盤PCB *2
-* 自製Arduino ProMicro *2
+* 自製Arduino ProMicro *2 (已先燒好Ergodash程式)
+* 排針 *2組 + 4
 * 壓克力 *2組 (左右共6片)
 * m2*6mm銅柱 *16
 * m2*5mm螺絲 *26
@@ -16,36 +17,133 @@
 * RGB LED *12
 * TRRS線 *1 
 
+* 已在PCB上先行焊上零件，不在清單中
+  * reset鍵
+  * TRRS座
+  * AUDIO電阻
+  * V99模組排阻 
+
 ## 先測試自製Arduino ProMicro是否可以正常動作
 ![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/23.jpg)
+
 如圖插上USB，電腦是可以辨識到ergodash鍵盤的，確認無誤後再繼續之後的步驟，如果有狀況，請不要繼續，先連絡支援。
 
 ![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/00.jpg)
+
+左右各35個電阻、35個二極體、6個RGB燈先焊上如圖所示，二極體有方向注意不要弄反。
+
 ![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/01.jpg)
+
+前一步驟零件全焊部好了之後，先放排針上PCB(不要焊)，之後請照步驟執行，不然弄錯會非常非常非常難解決。
+
+排針兩排之外還有2pin，這裡注意都要裝上。
+
 ![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/02.jpg)
+
+把Arduino ProMicro對上，可以平貼，這裡千萬不要不要不要焊上去，只是拿來定位而已。
+放Arduino的位置應該不會弄錯，因為另一邊已經放上reset按鍵了，沒辦法放錯誤的那邊。
+
 ![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/03.jpg)
+
+把鍵盤PCB反過來，進行焊接，這裡只在鍵盤電路板上焊上排針，沒有要焊其他的東西了。
+
 ![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/04.jpg)
+
+焊好如圖。
+
 ![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/05.jpg)
+
+先在壓克力上鎖好6mm銅柱，全部用5mm(較短的)螺絲。
+
 ![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/06.jpg)
+
+把軸體裝上壓克力，這裡塞的時候請小心不要壓破壓克力。有四顆軸體先不要裝，如圖所示。
+
 ![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/07.jpg)
+
+這裡有一顆斜放的軸體注意它針腳的位置。檢查所有針腳都沒有彎曲。
+
 ![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/08.jpg)
+
+全部裝好之後闔上PCB。
+
 ![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/09.jpg)
+
+正確無誤的話距離如圖所示。
+
 ![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/10.jpg)
+
+確定固定好沒有縫隙後可以開始焊上軸體。
+
 ![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/11.jpg)
+
+把剩下4個軸體也焊上。
+
 ![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/12.jpg)
+
+拿出排針座。
+  * 6x1
+  * 4x2
+  * 2x2
+
 ![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/13.jpg)
+
+先放上孔位，不要焊上。
+
 ![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/14.jpg)
+
+拿出trackpoint模組。
+
 ![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/15.jpg)
+
+插上用來定位。
+
 ![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/16.jpg)
+
+確定針腳都沒有跑掉。
+
 ![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/17.jpg)
+
+焊上。
+
 ![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/18.jpg)
+
+這是軸體的LED，雖然有附上，但是程式因為加了trackpoint功能，所以沒有更多的空間了，所以這LED是沒有功能的。要不要焊上看各人。
+燒原版的ergodash的程式這LED應該是可以動作的。
+
 ![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/19.jpg)
+
+現在把Arduino板放上。
+
 ![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/20.jpg)
+
+這裡會建議焊之前先把針腳先剪了，這樣安裝會比較平整，也比較好看。
+要小心針腳飛噴，可以拿張衛生紙揉成球來遮擋。
+
 ![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/21.jpg)
+
+剪到底。
+
 ![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/22.jpg)
-![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/23.jpg)
+
+焊上。
+
 ![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/24.jpg)
+
+全部焊完看起來是這樣。
+
 ![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/25.jpg)
+
+闔上下蓋的壓克力。
+
 ![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/26.jpg)
+
+拿5mm(短)的螺絲鎖下面5個(最右邊還有1個螺絲，拍照沒拍到)。
+
 ![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/27.jpg)
+
+蓋上小片壓克力，鎖上8mm(長的)螺絲。
+
 ![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/28.jpg)
+
+這樣就完工了。
