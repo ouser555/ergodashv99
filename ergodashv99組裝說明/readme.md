@@ -70,6 +70,8 @@ RGB LED的缺角pin為接地腳，對應到PCB上的G腳位。
 
 先在壓克力上鎖好6mm銅柱，全部用5mm(較短的)螺絲。
 
+壓克力的保護膜在這個階段可以先把它都撕掉了。
+
 ![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/06.jpg)
 
 把軸體裝上壓克力，這裡塞的時候請小心不要壓破壓克力。有四顆軸體先不要裝，如圖所示。
