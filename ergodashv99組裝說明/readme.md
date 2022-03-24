@@ -1,4 +1,11 @@
 ## ergodash v99 組裝說明
+
+## 因為這完整的套件都是經過測試的，所以這套件應該在設計上是不會有奇怪的問題。
+## 組裝焊接的工作原本就是依照各人熟悉度不同會有各種不同的結果。
+## 如果您對技能不是非常有自信，也可以請有技術的朋友代為進行組裝工作。
+## 如果你是第一次組裝類似套件，請詳細參照說明進行操作。
+## 如果Arduino板焊接步驟錯誤，排針解焊會非常麻煩，請務必小心。
+
 剛開始拿到套件時可以先清點一下零件
 * 鍵盤PCB *2
 * 自製Arduino ProMicro *2 (已先燒好Ergodash程式)
@@ -156,4 +163,10 @@ RGB LED的缺角pin為接地腳，對應到PCB上的G腳位。
 
 ![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/28.jpg)
 
+最後黏上矽膠腳墊。
+
 這樣就完工了。
+
+之後就可以到VIA使用說明進行操作
+https://github.com/ouser555/ergodashv99/blob/main/ergodashv99via%E4%BD%BF%E7%94%A8%E8%AA%AA%E6%98%8E/README.md
+
