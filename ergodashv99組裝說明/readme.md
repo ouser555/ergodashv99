@@ -27,7 +27,7 @@
 * 已在PCB上先行焊上零件，不在清單中
   * reset鍵
   * TRRS座
-  * AUDIO電阻
+  * BACKLIGHT電阻
   * V99模組排阻 
 
 ## 先測試自製Arduino ProMicro是否可以正常動作
