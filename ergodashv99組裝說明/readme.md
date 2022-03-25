@@ -137,7 +137,7 @@ RGB LED的缺角pin為接地腳，對應到PCB上的G腳位。
 
 這時候不焊上的話，放上Arduino板後就有兩個軸體再也裝不了LED了，這裡可以先考慮好。
 
-燒原版的ergodash的程式這LED應該是可以動作的，但是還差一個零件，要讓它動的話請自行再補。
+燒原版的ergodash的程式這LED應該是可以動作的，但是還差一個零件，名稱是IRLML6344TRPbF，要讓它動的話請自行再補。
 
 ![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/19.jpg)
 
