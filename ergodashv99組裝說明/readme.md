@@ -177,7 +177,7 @@ RGB LED的缺角pin為接地腳，對應到PCB上的G腳位。
 
 附上關於V99模組的線路圖
 
-![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/31.jpg)
+![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/32.jpg)
 
 
 檢查動作無誤後，闔上下蓋的壓克力。
