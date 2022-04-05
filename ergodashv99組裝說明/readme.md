@@ -163,7 +163,21 @@ RGB LED的缺角pin為接地腳，對應到PCB上的G腳位。
 
 ![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/25.jpg)
 
-闔上下蓋的壓克力。
+接下來是左右手的供電JUMP選擇，依下圖上焊錫。
+
+![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/29.jpg)
+
+請依照上圖焊JUMP，下圖只是為了指出JUMP在PCB的位置，JUMP焊法不一樣。
+
+![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/30.jpg)
+
+然後可以先接上電腦的USB，RGB此時應該會被點亮，如果有沒亮的，檢查看看LED有沒有焊對方向。
+
+按按看trackpoint可不可以正常動作，如果不行，也要再檢查上述步驟有沒有什麼地方沒有焊對。
+
+
+
+檢查動作無誤後，闔上下蓋的壓克力。
 
 ![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/26.jpg)
 
