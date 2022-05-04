@@ -19,8 +19,11 @@
   ![image](https://github.com/ouser555/ergodashv99/blob/main/ergodashv99via%E4%BD%BF%E7%94%A8%E8%AA%AA%E6%98%8E/0012.png)
   
   
-* 選擇檔案ErgoDash_4key_2u_inner-remap.json
-  (檔案在(檔案在https://git.io/JDxnc) 
+* 選擇檔案ErgoDash_4key_2u_inner.json
+  (檔案在(檔案在https://git.io/JDxnc)
+  
+  2022/5/4之後改版
+  檔案改選ErgoDash_4key_2u_inner-remap.json
   
   (下載方式:進入github連結後出現檔案列表，先按檔案，然後右邊上方有一個RAW按鈕，右鍵選擇另存連結為...)
 
@@ -54,6 +57,9 @@
 * 選擇KEYMAP設定檔 ergodashv99 。
   
   (檔案在https://git.io/JDxnc)
+  
+  2022/5/4之後改版
+  檔案改選ergodashv99-
   
   會依照檔案設定KEYMAP，如果之後有自己的配置也可以用save current layout把keymap保存起來。
   ![image](https://github.com/ouser555/ergodashv99/blob/main/ergodashv99via%E4%BD%BF%E7%94%A8%E8%AA%AA%E6%98%8E/0005.png)
