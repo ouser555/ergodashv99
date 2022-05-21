@@ -108,5 +108,8 @@
 
 ![image](https://github.com/ouser555/ergodash_v99_ble/blob/main/pic/02.jpg)
 
+
+#### 31.最後可依照VIA使用說明測試鍵盤所有功能。
 https://github.com/ouser555/ergodashv99/blob/main/ergodashv99via%E4%BD%BF%E7%94%A8%E8%AA%AA%E6%98%8E/README.md
-最後可依照VIA使用說明測試鍵盤
+
+
