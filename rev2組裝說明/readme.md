@@ -7,6 +7,10 @@
 #### 2.電路板有兩片，兩片都是一樣的，左右手正反面的PCB是共用的，這裡假定左右手SMD元件都焊好了。
 ![image](https://github.com/ouser555/ergodashv99/blob/main/rev2%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/piiic%20(2).jpg)
 
+(SMD零件焊好的示意圖，此圖為其他鍵盤。)
+
+![image](https://github.com/ouser555/ergodashv99/blob/main/rev2%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/piiic%20(47).jpg)
+
 #### 3.兩片Arduino Pro Micro Type-C和相應數量的排針。
 ![image](https://github.com/ouser555/ergodashv99/blob/main/rev2%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/piiic%20(3).jpg)
 
@@ -49,36 +53,57 @@
 #### 16.這是模組要放置的樣子，彎排針是平貼模組的，不剪腳就這樣直接把焊錫溶下去針孔裡。建議可以先焊彎排針的一點然後調整位置讓它可以比較美觀。
 ![image](https://github.com/ouser555/ergodashv99/blob/main/rev2%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/piiic%20(23).jpg)
 
-#### 17.然後就是直排針，建議先剪排針讓它與模組齊平，然後再焊，這樣比較美觀也比較好剪。
+#### 17.然後就是直排針，建議先剪排針讓它與模組齊平，然後再焊，這樣比較美觀也比較好剪。這裡順便把側邊按鍵和音源線接頭焊上。
 ![image](https://github.com/ouser555/ergodashv99/blob/main/rev2%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/piiic%20(22).jpg)
 
 #### 18.這裡有JUMPER要焊
-##### A.左上三點，焊上面兩點。
-##### B.左下兩點焊起來。
-##### C.最右邊兩點焊起來。
-##### D.中間三點，焊上面兩點
+* A.左上三點，焊上面兩點。
+* B.左下兩點焊起來。
+* C.最右邊兩點焊起來。
+* D.中間三點，焊上面兩點
+
 ![image](https://github.com/ouser555/ergodashv99/blob/main/rev2%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/piiic%20(29).jpg)
 
 #### 19.Trackpoint正反面的JUMPER，跟焊SMD的零件面同一面，六個點都焊起來，這因為是舊版的PCB，焊點做太小，會比較難焊，新的PCB沒有這個問題。
 ![image](https://github.com/ouser555/ergodashv99/blob/main/rev2%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/piiic%20(30).jpg)
 
-#### 20.
-![image](https://github.com/ouser555/ergodashv99/blob/main/rev2%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/piiic%20(1).jpg)
+#### 20.拿出定位板，有些孔位的餘料在切割後沒有拿掉。
+![image](https://github.com/ouser555/ergodashv99/blob/main/rev2%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/piiic%20(33).jpg)
 
-#### 
-![image](https://github.com/ouser555/ergodashv99/blob/main/rev2%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/piiic%20(1).jpg)
+#### 21.輕輕推掉即可。
+![image](https://github.com/ouser555/ergodashv99/blob/main/rev2%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/piiic%20(34).jpg)
 
-#### 
-![image](https://github.com/ouser555/ergodashv99/blob/main/rev2%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/piiic%20(1).jpg)
+#### 22.用M2*5mm螺絲鎖上M2*6mm銅柱。背面圖。
+![image](https://github.com/ouser555/ergodashv99/blob/main/rev2%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/piiic%20(35).jpg)
 
-#### 
-![image](https://github.com/ouser555/ergodashv99/blob/main/rev2%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/piiic%20(1).jpg)
+#### 23.正面圖。
+![image](https://github.com/ouser555/ergodashv99/blob/main/rev2%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/piiic%20(36).jpg)
 
-#### 
-![image](https://github.com/ouser555/ergodashv99/blob/main/rev2%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/piiic%20(1).jpg)
+#### 24.闔上PCB。
+![image](https://github.com/ouser555/ergodashv99/blob/main/rev2%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/piiic%20(37).jpg)
 
-#### 
-![image](https://github.com/ouser555/ergodashv99/blob/main/rev2%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/piiic%20(1).jpg)
+#### 25.拿出Trackpoint模組和腳座。
+![image](https://github.com/ouser555/ergodashv99/blob/main/rev2%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/piiic%20(38).jpg)
 
-#### 
-![image](https://github.com/ouser555/ergodashv99/blob/main/rev2%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/piiic%20(1).jpg)
+#### 26.拿來定位。
+![image](https://github.com/ouser555/ergodashv99/blob/main/rev2%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/piiic%20(39).jpg)
+
+#### 27.和孔位對上。
+![image](https://github.com/ouser555/ergodashv99/blob/main/rev2%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/piiic%20(40).jpg)
+
+#### 28.背面的樣子。焊上即可。
+![image](https://github.com/ouser555/ergodashv99/blob/main/rev2%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/piiic%20(41).jpg)
+
+#### 29.背面的壓克力鎖上。
+* 先鎖下方鍵盤4隻長度5mm的螺絲。
+* 闔上第二片壓克力，再鎖中間1隻長度8mm的螺絲。
+* 闔上最小片的壓克力，最後最高的那層3隻12mm的螺絲。
+
+![image](https://github.com/ouser555/ergodashv99/blob/main/rev2%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/piiic%20(42).jpg)
+
+#### 30.接上TRRS線，左邊鍵盤用USB線接電腦即可操作。這裡應該全RGB都會亮起。
+![image](https://github.com/ouser555/ergodashv99/raw/main/001.jpg)
+
+
+https://github.com/ouser555/ergodashv99/blob/main/ergodashv99via%E4%BD%BF%E7%94%A8%E8%AA%AA%E6%98%8E/README.md
+最後可依照VIA使用說明測試鍵盤
