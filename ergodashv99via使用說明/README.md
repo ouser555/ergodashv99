@@ -25,6 +25,12 @@
   2022/5/4之後改版
   檔案改選ErgoDash_4key_2u_inner-remap.json
   
+  如果你的鍵盤式是Ergoknife，
+  則是從這裡
+  [https://github.com/ouser555/ErgoKnife/raw/main/ErgoKnife.json](https://github.com/ouser555/ErgoKnife)
+  下載這個檔案
+  ErgoKnife.json
+  
   (下載方式:進入github連結後出現檔案列表，先按檔案，然後右邊上方有一個RAW按鈕，右鍵選擇另存連結為...)
 
   ![image](https://github.com/ouser555/ergodashv99/blob/main/ergodashv99via%E4%BD%BF%E7%94%A8%E8%AA%AA%E6%98%8E/0004.png)
