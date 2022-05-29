@@ -27,9 +27,9 @@
   
   如果你的鍵盤式是Ergoknife，
   則是從這裡
-  [https://github.com/ouser555/ErgoKnife/raw/main/ErgoKnife.json](https://github.com/ouser555/ErgoKnife)
-  下載這個檔案
-  ErgoKnife.json
+  [https://github.com/ouser555/ErgoKnife](https://github.com/ouser555/ErgoKnife)
+  下載 ErgoKnife.json 這個檔案
+  
   
   (下載方式:進入github連結後出現檔案列表，先按檔案，然後右邊上方有一個RAW按鈕，右鍵選擇另存連結為...)
 
