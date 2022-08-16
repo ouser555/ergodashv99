@@ -5,7 +5,7 @@
   
 * 會連結到github的via頁面，依照作業系統選擇版本，像是windows 10 就選 via-1.3.1-win.exe。
 
-  v1.3.1應該就是最後更新的版本了，以後也不太有可能更新了。
+  v1.3.1應該就是最後更新的版本了，以後也不太有可能更新了。(最近更新到2.0.5普通使用上沒區別)
   
   ![image](https://github.com/ouser555/ergodashv99/blob/main/ergodashv99via%E4%BD%BF%E7%94%A8%E8%AA%AA%E6%98%8E/0002.png)
   
