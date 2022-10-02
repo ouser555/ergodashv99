@@ -11,7 +11,7 @@
 ## 剛開始拿到套件時可以先清點一下零件
 * 鍵盤PCB *2
 * 自製Arduino ProMicro *2 (已先燒好Ergodash程式)
-* 排針 *2組 + 4
+* 排針 *2組 * 4
 * 壓克力 *2組 (左右共6片)
 * m2*6mm銅柱 *16
 * m2*5mm螺絲 *26
@@ -20,30 +20,31 @@
   * 2px1 *4
   * 2px2 *4
   * 3px2 *2 
-* 電阻 * 70
+* ~~電阻 * 70(沒有單色LED這個功能，零件不會附上)~~
 * 二極體 *70
-* LED *70
+* ~~LED *70(沒有單色LED這個功能，零件不會附上)~~
 * RGB LED *24
 * TRRS線 *1 
 * !
-* 已在PCB上先行焊上零件，不在清單中
+* ~~已在PCB上先行焊上零件，不在清單中~~
+* 其他零件
   * reset鍵
   * TRRS座
-  * BACKLIGHT電阻
-  * V99模組排阻 
+  * ~~BACKLIGHT電阻(沒有單色LED這個功能，零件不會附上)~~
+  * ~~V99模組排阻(已改成JUMPER了)~~
 
 ## 先測試自製Arduino ProMicro是否可以正常動作
 ![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/23.jpg)
 
-如圖插上USB，電腦是可以辨識到ergodash鍵盤的，確認無誤後再繼續之後的步驟，如果有狀況，請不要繼續，先連絡支援。
+~~如圖插上USB，電腦是可以辨識到ergodash鍵盤的，確認無誤後再繼續之後的步驟，如果有狀況，請不要繼續，先連絡支援。~~
 
-因為通常都會先燒錄程式，測試好再出貨，所以拿到應該是不會有問題的。
+~~因為通常都會先燒錄程式，測試好再出貨，所以拿到應該是不會有問題的。~~
 
 ![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/00.jpg)
 
 左右各35個電阻、35個二極體、6個RGB燈先焊上如圖所示，二極體有方向注意不要弄反。
 
-鍵盤PCB上的零件面已經有先焊上部分零件了，應該不會搞錯。
+~~鍵盤PCB上的零件面已經有先焊上部分零件了，應該不會搞錯。(未焊上)~~
 
 RGB LED的缺角pin為接地腳，對應到PCB上的G腳位。
 
