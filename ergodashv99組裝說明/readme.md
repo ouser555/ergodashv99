@@ -39,7 +39,7 @@
 1.到以下網址下載燒錄檔
 https://github.com/ouser555/qmk_firmware/blob/master/keyboards/ergodash/keymaps/v99v3/hex/ergodash_rev1_v99v3.hex
 
-滑鼠游標到右手邊的RAW上按右鍵，選擇另存連結。(只能這樣下載燒錄檔，用其他方式會下載到無法使用的檔案)
+滑鼠游標到網頁右邊的RAW上按右鍵，選擇另存連結。(只能這樣下載燒錄檔，用其他方式會下載到無法使用的檔案)
 
 2.燒錄方式
 https://github.com/ouser555/ergodashv99/blob/main/QMKToolbox/readme.md
@@ -48,6 +48,8 @@ https://github.com/ouser555/ergodashv99/blob/main/QMKToolbox/readme.md
 ![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/23.jpg)
 
 如圖插上USB，電腦是可以辨識到ergodash鍵盤的，確認無誤後再繼續之後的步驟，如果有狀況，請不要繼續，先連絡支援。
+
+兩片Arduino ProMicro都燒同一個燒錄檔。
 
 ~~因為通常都會先燒錄程式，測試好再出貨，所以拿到應該是不會有問題的。~~
 
@@ -212,6 +214,8 @@ RGB LED的缺角pin為接地腳，對應到PCB上的G腳位。
 最後黏上矽膠腳墊。
 
 這樣就完工了。
+
+幫兩邊鍵盤接上TRSS線，預設是左手鍵盤為主鍵盤，用左手鍵盤接電腦USB即可。
 
 之後就可以到VIA使用說明進行操作
 https://github.com/ouser555/ergodashv99/blob/main/ergodashv99via%E4%BD%BF%E7%94%A8%E8%AA%AA%E6%98%8E/README.md
