@@ -38,6 +38,7 @@
 
 1.到以下網址下載燒錄檔
 https://github.com/ouser555/qmk_firmware/blob/master/keyboards/ergodash/keymaps/v99v3/hex/ergodash_rev1_v99v3.hex
+
 滑鼠游標到右手邊的RAW上按右鍵，選擇另存連結。(只能這樣下載燒錄檔，用其他方式會下載到無法使用的檔案)
 
 2.燒錄方式
