@@ -34,6 +34,15 @@
   * ~~V99模組排阻(已改成JUMPER了)~~
 
 ## 先測試~~自製~~Arduino ProMicro是否可以正常動作
+
+1.到以下網址下載燒錄檔
+https://github.com/ouser555/qmk_firmware/blob/master/keyboards/ergodash/keymaps/v99v3/hex/ergodash_rev1_v99v3.hex
+滑鼠游標到右手邊的RAW上按右鍵，選擇另存連結。(只能這樣下載燒錄檔，用其他方式會下載到無法使用的檔案)
+
+2.燒錄方式
+https://github.com/ouser555/ergodashv99/blob/main/QMKToolbox/readme.md
+
+
 ![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/23.jpg)
 
 ~~如圖插上USB，電腦是可以辨識到ergodash鍵盤的，確認無誤後再繼續之後的步驟，如果有狀況，請不要繼續，先連絡支援。~~
@@ -42,7 +51,7 @@
 
 ![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/00.jpg)
 
-左右各35個電阻、35個二極體、12個RGB燈先焊上如圖所示，二極體有方向注意不要弄反。
+左右各~~35個電阻~~、35個二極體、12個RGB燈先焊上如圖所示，二極體有方向注意不要弄反。
 
 ~~鍵盤PCB上的零件面已經有先焊上部分零件了，應該不會搞錯。(未焊上)~~
 
