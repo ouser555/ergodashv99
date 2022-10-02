@@ -47,7 +47,7 @@ https://github.com/ouser555/ergodashv99/blob/main/QMKToolbox/readme.md
 
 ![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/23.jpg)
 
-~~如圖插上USB，電腦是可以辨識到ergodash鍵盤的，確認無誤後再繼續之後的步驟，如果有狀況，請不要繼續，先連絡支援。~~
+如圖插上USB，電腦是可以辨識到ergodash鍵盤的，確認無誤後再繼續之後的步驟，如果有狀況，請不要繼續，先連絡支援。
 
 ~~因為通常都會先燒錄程式，測試好再出貨，所以拿到應該是不會有問題的。~~
 
