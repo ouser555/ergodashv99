@@ -33,7 +33,7 @@
   * ~~BACKLIGHT電阻(沒有單色LED這個功能，零件不會附上)~~
   * ~~V99模組排阻(已改成JUMPER了)~~
 
-## 先測試自製Arduino ProMicro是否可以正常動作
+## 先測試~~自製~~Arduino ProMicro是否可以正常動作
 ![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/23.jpg)
 
 ~~如圖插上USB，電腦是可以辨識到ergodash鍵盤的，確認無誤後再繼續之後的步驟，如果有狀況，請不要繼續，先連絡支援。~~
@@ -42,7 +42,7 @@
 
 ![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/00.jpg)
 
-左右各35個電阻、35個二極體、6個RGB燈先焊上如圖所示，二極體有方向注意不要弄反。
+左右各35個電阻、35個二極體、12個RGB燈先焊上如圖所示，二極體有方向注意不要弄反。
 
 ~~鍵盤PCB上的零件面已經有先焊上部分零件了，應該不會搞錯。(未焊上)~~
 
@@ -57,7 +57,7 @@ RGB LED的缺角pin為接地腳，對應到PCB上的G腳位。
 
 ![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/02.jpg)
 
-把Arduino ProMicro對上，可以平貼，這裡千萬不要不要不要焊上去，只是拿來定位而已。
+### 把Arduino ProMicro對上，可以平貼，這裡千萬不要不要不要焊上去，只是拿來定位而已。
 
 放Arduino的位置應該不會弄錯，因為另一邊已經放上reset按鍵了，沒辦法放錯誤的那邊。
 
