@@ -1,6 +1,32 @@
 ## Ergodash rev2 v99 v5 組裝說明 
 
-#### 1.首先確定壓克力共有8片，(此為膠膜未撕狀態，正常組裝時膠膜都會撕掉，這裡因為是組裝說明就先不撕了)
+#### 0.清點零件
+* Arduino promicro Type-c模組 x2
+* Trackpoint模組 SPI x2
+* 12p直排針 x2
+* 12p彎排針 x2
+* 12p針座3.5mm x4
+* 2p針座 x4
+* 4p針座 x4
+* 6p針座 x2
+* PCB x2
+* 壓克力殼 x1組(共8片)
+* 1N4148 x 70
+* RGB LED x 70
+* 軸體熱插拔座 x70
+* RESET鍵 x2
+* TRRS座 x2
+* TRRS線 x1
+* 銅柱 x 16
+* M2x5螺絲 x (8+4)x2=24
+* M2x8螺絲 x (1x2)=2
+* M2x12螺絲 x (3x2)=6
+* 選配
+  * 軸體 x70
+  * 透光普通ABS鍵帽 x104
+
+
+#### 1.確定壓克力共有8片，(此為膠膜未撕狀態，正常組裝時膠膜都會撕掉，這裡因為是組裝說明就先不撕了)
 ![image](https://github.com/ouser555/ergodashv99/blob/main/rev2%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/piiic%20(1).jpg)
 
 
