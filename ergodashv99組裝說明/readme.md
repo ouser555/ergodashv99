@@ -11,7 +11,7 @@
 ## 剛開始拿到套件時可以先清點一下零件
 * 鍵盤PCB *2
 * 自製Arduino ProMicro *2 (已先燒好Ergodash程式)
-* 排針 *2組 *4
+* 排針 2組 *4(Arduino promicro會附)
 * V99模組 *2
 * 壓克力 *2組 (左右共6片)
 * m2*6mm銅柱 *16
