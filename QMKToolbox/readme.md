@@ -24,5 +24,9 @@
 1.將Arduino ProMicro接上電腦的USB。
 
 2.使用聶子或其他可以導電的物體，短接右邊的第2隻腳與第3支腳，觸發硬體RESET，就會開始燒錄。
+  * 有些Promico必須要連續觸發兩次RESET，才會開始燒錄。
 
 ![pro_micro_pinout](https://user-images.githubusercontent.com/95702400/145521171-3f43e472-40c0-441b-bc69-28e8c52dca2d.jpg)
+
+3.如果你的promicro已經組裝在鍵盤上，按上方邊緣的reset按鍵，即可觸發硬體RESET，即可開始燒錄。
+  * 有些Promico必須要連續觸發兩次RESET，才會開始燒錄。
