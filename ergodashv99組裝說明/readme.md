@@ -69,6 +69,9 @@ RGB LED的缺角pin為接地腳，對應到PCB上的G腳位。
 
 排針兩排之外還有2pin，這裡注意都要裝上。
 
+(新版本請看hotswap的說明，若喜歡焊死的方式也可以繼續往下操作)
+https://github.com/ouser555/ergodashv99/blob/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/Arduino%20hotswap/readme.md
+
 ![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/02.jpg)
 
 ### 把Arduino ProMicro對上，可以平貼，這裡千萬不要不要不要焊上去，只是拿來定位而已。
