@@ -53,8 +53,8 @@
   ![image](https://github.com/ouser555/ergodashv99/blob/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/Arduino%20hotswap/pic1/pic%20(14).jpg)
   ![image](https://github.com/ouser555/ergodashv99/blob/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/Arduino%20hotswap/pic1/pic%20(17).jpg)
   
-  可以看到剪腳工具或技術不好會把排針拉出來，有的針腳會掉到排針座外面，
-  後來又必須要重新調整。所以請自行斟酌。
+  可以看到剪針腳時，工具或技術不好會把排針拉出來，有的針腳會掉到排針座外面，
+  後來又必須要重新調整。所以請自行斟酌要先焊或是先剪。
   ![image](https://github.com/ouser555/ergodashv99/blob/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/Arduino%20hotswap/pic1/pic%20(15).jpg)
 
 ### 焊好如圖。
