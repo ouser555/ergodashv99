@@ -47,7 +47,7 @@
   
   ![image](https://github.com/ouser555/ergodashv99/blob/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/Arduino%20hotswap/pic1/pic%20(11).jpg)
 
-### 然後就可以焊排針腳和ProMicro的部分。
+### 然後就可以焊排針腳和ProMicro的部分。(先焊再剪針腳)
   如果對自己的技術有自信，為了美觀，先剪排針腳再焊接也是可以。(下面失敗案例先看完)
   
   ![image](https://github.com/ouser555/ergodashv99/blob/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/Arduino%20hotswap/pic1/pic%20(14).jpg)
