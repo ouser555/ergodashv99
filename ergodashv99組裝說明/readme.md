@@ -13,7 +13,7 @@
 * Arduino ProMicro Type-C *2 (建議先燒好Ergodash程式)
 * 排針 2組 *4(Arduino promicro會附)
 * V99模組 *2
-* 壓克力 *2組 (左右共6片)
+* 壓克力 *2組 (左右共8片)
 * m2*6mm銅柱 *16
 * m2*5mm螺絲 *26
 * m2*8mm螺絲 *6
