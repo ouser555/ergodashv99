@@ -72,6 +72,6 @@
 
   ![image](https://github.com/ouser555/ergodashv99/blob/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/Arduino%20hotswap/pic1/pic%20(21).jpg)
 
-### 熱插拔元件都是用彈片去夾住針腳的方式設計，為了保持它的穩定性，建議不要進行頻繁插拔的動作。
+### 熱插拔元件都是用彈片去夾住針腳的方式設計，為了保持它功能的穩定性，建議不要進行頻繁插拔的動作。
 
   
