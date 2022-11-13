@@ -191,7 +191,7 @@ https://github.com/ouser555/ergodashv99/blob/main/ergodashv99%E7%B5%84%E8%A3%9D%
 
 ![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/30.jpg)
 
-#### Trackpoint正反面的JUMPER，跟焊SMD的零件面同一面，六個點都焊起來，這因為圖是舊版的PCB，拿到的PCB的JUMPER位置在稍微下方一點。
+#### Trackpoint正反面的JUMPER，跟放置零件的面是同一面，六個點都焊起來，這因為圖是舊版的PCB，拿到的PCB的JUMPER位置在稍微下方一點。
 ![image](https://github.com/ouser555/ergodashv99/blob/main/rev2%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/piiic%20(30).jpg)
 
 然後可以先接上電腦的USB，RGB此時應該會被點亮，如果有沒亮的，檢查看看LED有沒有焊對方向。
