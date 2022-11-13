@@ -202,6 +202,15 @@ https://github.com/ouser555/ergodashv99/blob/main/ergodashv99%E7%B5%84%E8%A3%9D%
 
 附上關於V99模組的線路圖
 
+(X新版PCB在Promicro上不是這些腳位)
+* 改成左邊由上往下
+
+* P2 MISO
+
+* P5 MOSI
+
+* P8 SCLK
+
 ![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/32.jpg)
 
 檢查動作無誤後，依序放置下蓋的3片壓克力。
