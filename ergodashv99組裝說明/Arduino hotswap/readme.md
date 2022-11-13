@@ -10,7 +10,7 @@
 
   如圖所示新增了兩個12Pin的排針座，這是為了讓Arduino ProMicro可以插拔而增加的零件。
  
-  這種雙面使用的PCB設計方式，以往經會有人一不留神把ProMicro焊錯了位置，
+  這種雙面使用的PCB設計方式，以往經驗會有人一不留神把ProMicro焊錯了位置，
   
   導致後來的解焊困難甚至直接放棄治療，所以增加了這個零件來提高容錯率，
   
@@ -18,12 +18,12 @@
 
   
 
-### 要讓排針比較容易剪斷，這裡先拿尖嘴鉗把排針短的一端壓平。
+### 要讓排針比較容易剪斷，這裡先拿尖嘴鉗把排針短的一端壓入長的那端。
   ![image](https://github.com/ouser555/ergodashv99/blob/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/Arduino%20hotswap/pic1/pic%20(2).jpg)
 
   
 
-### 12P壓完如圖所示。一共要壓4組。
+### 12P壓完如圖所示。一共要壓4條。
   ![image](https://github.com/ouser555/ergodashv99/blob/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/Arduino%20hotswap/pic1/pic%20(5).jpg)
 
   
@@ -66,6 +66,6 @@
 
   ![image](https://github.com/ouser555/ergodashv99/blob/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/Arduino%20hotswap/pic1/pic%20(21).jpg)
 
-### 熱插拔元件都是用彈片去卡住針腳的方式設計，為了保持它的穩定性，建議不要進行頻繁插拔的動作。
+### 熱插拔元件都是用彈片去夾住針腳的方式設計，為了保持它的穩定性，建議不要進行頻繁插拔的動作。
 
   
