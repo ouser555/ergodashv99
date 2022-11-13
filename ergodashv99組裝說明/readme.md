@@ -196,24 +196,24 @@ https://github.com/ouser555/ergodashv99/blob/main/ergodashv99%E7%B5%84%E8%A3%9D%
 
 然後可以先接上電腦的USB，RGB此時應該會被點亮，如果有沒亮的，檢查看看LED有沒有焊對方向。
 
+![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/28.jpg)
+
 按按看trackpoint可不可以正常動作，如果不行，也要再檢查上述步驟有沒有什麼地方沒有焊對。
 
 附上關於V99模組的線路圖
 
 ![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/32.jpg)
 
+檢查動作無誤後，依序放置下蓋的3片壓克力。
 
-檢查動作無誤後，闔上下蓋的壓克力。
+下面4顆5mm螺絲，中間1顆8mm螺絲，上面3顆12mm螺絲。
 
 ![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/26.jpg)
 
-拿5mm(短)的螺絲鎖下面5個(最右邊還有1個螺絲，拍照沒拍到)。
+示意圖
 
-![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/27.jpg)
+![image](https://github.com/ouser555/ergodashv99/blob/main/rev2%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/piiic%20(42).jpg)
 
-蓋上小片壓克力，鎖上8mm(長的)螺絲。
-
-![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/28.jpg)
 
 最後黏上矽膠腳墊。
 
