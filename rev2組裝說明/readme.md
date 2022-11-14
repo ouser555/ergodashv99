@@ -127,7 +127,9 @@
 
 ![image](https://github.com/ouser555/ergodashv99/blob/main/rev2%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/piiic%20(42).jpg)
 
-#### 30.接上TRRS線，左邊鍵盤用USB線接電腦即可操作。這裡應該全RGB都會亮起。
+#### 30.裝上喜歡的軸體鍵帽。
+
+#### 31.接上TRRS線，左邊鍵盤用USB線接電腦即可操作。這裡應該全RGB都會亮起。
 ![image](https://github.com/ouser555/ergodashv99/raw/main/001.jpg)
 
 * RGB全亮起的示意圖(這圖是無線版的鍵盤)
