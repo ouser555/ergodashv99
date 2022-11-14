@@ -200,11 +200,11 @@ https://github.com/ouser555/ergodashv99/blob/main/ergodashv99%E7%B5%84%E8%A3%9D%
 
 按按看trackpoint可不可以正常動作，如果不行，也要再檢查上述步驟有沒有什麼地方沒有焊對。
 
-附上關於V99模組的線路圖
+附上關於V99模組的線路圖(X新版PCB腳位配置於下一張圖)
 
 ![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/32.jpg)
 
-(X新版PCB在Promicro上不是這些腳位，PCB上有標示)
+(X新版PCB在Promicro上的腳位，PCB上有標示)
 * 改成左邊由上往下
 
 * P2 MISO
