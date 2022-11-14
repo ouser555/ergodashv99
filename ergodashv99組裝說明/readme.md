@@ -215,9 +215,9 @@ https://github.com/ouser555/ergodashv99/blob/main/ergodashv99%E7%B5%84%E8%A3%9D%
 * 
 ![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/33.jpg)
 
-檢查動作無誤後，依序放置下蓋的3片壓克力。
+檢查動作無誤後，依序放置下蓋的3層壓克力。
 
-下面4顆5mm螺絲，中間1顆8mm螺絲，上面3顆12mm螺絲。
+下層4顆5mm螺絲，中層1顆8mm螺絲，上層3顆12mm螺絲。
 
 ![image](https://raw.githubusercontent.com/ouser555/ergodashv99/main/ergodashv99%E7%B5%84%E8%A3%9D%E8%AA%AA%E6%98%8E/pic/26.jpg)
 
