@@ -1,4 +1,13 @@
 ## ergodashv99 via configuration使用說明
+
+* 如果要讓trackpoint更容易使用，windows打開設定，滑鼠頁面，設定，這裡提供測試過比較好的參數，使用者也可以依需求自行調整。
+  
+  滑鼠速度:游標速度:6
+  
+  滾輪速度:選擇一次要捲動的行數:1(滾輪用這個會比較平滑)
+  
+  ![image](https://github.com/ouser555/ergodashv99/blob/main/ergodashv99via%E4%BD%BF%E7%94%A8%E8%AA%AA%E6%98%8E/setting.jpg)
+
 * 先到 https://caniusevia.com/ 選擇download via下載via configuration。(網頁連結拿掉了)
   * 換這個 https://github.com/the-via/releases/releases/tag/v2.0.5
   ![image](https://github.com/ouser555/ergodashv99/blob/main/ergodashv99via%E4%BD%BF%E7%94%A8%E8%AA%AA%E6%98%8E/0001.png)
@@ -6,7 +15,7 @@
   
 * 會連結到github的via頁面，依照作業系統選擇版本，像是windows 10 就選 via-1.3.1-win.exe。
 
-  v1.3.1應該就是最後更新的版本了，以後也不太有可能更新了。(最近更新到2.0.5普通使用上沒區別)
+  ~~v1.3.1應該就是最後更新的版本了，以後也不太有可能更新了。~~(最近更新到2.0.5普通使用上沒區別)
   
   ![image](https://github.com/ouser555/ergodashv99/blob/main/ergodashv99via%E4%BD%BF%E7%94%A8%E8%AA%AA%E6%98%8E/0002.png)
   
