@@ -4,7 +4,7 @@
 
 ### 1. QMK Toolbox下載
 
-* 到 https://github.com/qmk/qmk_toolbox/releases/tag/0.2.2 下載最新版本
+* 到 https://github.com/qmk/qmk_toolbox/releases 下載最新版本，可以選擇install.exe安裝版或是.exe直接執行版，範例選擇直接執行版
 ![image](https://github.com/ouser555/ergodashv99/blob/main/QMKToolbox/pic/chrome_eDgEPXTqOD.png)
 
 ### 2. 打開QMK Toolbox
