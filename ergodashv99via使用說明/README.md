@@ -17,6 +17,10 @@
 
   ~~v1.3.1應該就是最後更新的版本了，以後也不太有可能更新了。~~(最近更新到2.0.5普通使用上沒區別)
   
+  舊版的鍵盤firmware要使用via v1.3.1，因為原作者把下載關掉了，這裡備份
+  
+  https://github.com/ouser555/ergodashv99/releases
+  
   ![image](https://github.com/ouser555/ergodashv99/blob/main/ergodashv99via%E4%BD%BF%E7%94%A8%E8%AA%AA%E6%98%8E/0002.png)
   
   
