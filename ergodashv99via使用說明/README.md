@@ -10,6 +10,7 @@
 
 * 先到 https://caniusevia.com/ 選擇download via下載via configuration。(網頁連結拿掉了)
   * 換這個 https://github.com/the-via/releases/releases/tag/v2.0.5
+  * 或更新的 https://github.com/the-via/releases/releases/tag/v2.1.0
   ![image](https://github.com/ouser555/ergodashv99/blob/main/ergodashv99via%E4%BD%BF%E7%94%A8%E8%AA%AA%E6%98%8E/0001.png)
   
   
