@@ -44,7 +44,7 @@
   則是從這裡
   ~~[https://github.com/ouser555/ErgoKnife](https://github.com/ouser555/ErgoKnife)~~
   ~~https://github.com/ouser555/ErgoKnife/blob/main/via%20config/ErgoKnife-20230213.json~~
-  https://github.com/ouser555/ErgoKnife/blob/main/via%20config/ErgoKnife-202300303.json
+  https://github.com/ouser555/ErgoKnife/blob/main/via%20config/ErgoKnife-20230303.json
   
   下載 ErgoKnife.json 這個檔案  
   
