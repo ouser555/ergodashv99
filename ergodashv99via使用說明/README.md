@@ -1,5 +1,15 @@
 ## ergodashv99 via configuration使用說明
 
+* 最近變動說明
+  * 20230409
+    * VIA configuartion更新到了3.0.0版。
+    * 最近新版的 QMK firmware端把VIA custom keycode(USER00)改掉了，可能是改成CS00，但是這裡沒有測試成功，
+      VIA和VIAL端也沒有做出變動，舊版的qmk v0.20.04的custom keycode依舊可在VIA 3.0.0正常使用，所以暫不使用新版QMK。
+    * VIA網頁版都會用最新版本，所以有一天網頁版的custom keycode突然不能用了，那就是它對custom keycode最對應的更新了，
+      此時若有急用可以先下載程式版的3.0.0應急。  
+
+
+
 * 如果要讓trackpoint更容易使用，windows打開設定，滑鼠頁面，設定，這裡提供測試過比較好的參數，使用者也可以依需求自行調整。
   
   滑鼠速度:游標速度:6
